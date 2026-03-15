@@ -1,0 +1,11 @@
+name = "adapt"
+description = "A.D.A.P.T stands for Aerial Data Acquisition &amp; Processing Terminal."
+version = "0.1.0-dev"
+
+authors = ["Nonvez"]
+maintainers = ["Nonvez <reza1234khan1234@gmail.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["flight", "kernel", "core"]
+
+executables = ["adapt"]

@@ -1,0 +1,14 @@
+/obj/
+/bin/
+/alire/
+/config/
+/alire_bin/
+
+*.o
+*.ali
+*.stderr
+*.stdout
+*.cswi
+*.db
+*.db-???
+*.zip
